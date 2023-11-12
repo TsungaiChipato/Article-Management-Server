@@ -1,0 +1,6 @@
+.vscode
+.vagrant
+*.log
+.DS_Store
+bin
+coverage
